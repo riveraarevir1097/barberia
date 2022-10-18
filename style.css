@@ -1,6 +1,13 @@
+* {
+    font-family: 'Lobster', sans-serif;
+    font-weight: 400;
+    line-height: 150%;
+
+    
+
 body{
     font-family: 'Montserrat', sans-serif;
-    background-image: url(imagenes/happy-guy-getting-haircut-by-hairdresser-gentleman-haircut-ss.jpg);
+    
    
 }
 
